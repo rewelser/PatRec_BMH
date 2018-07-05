@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "patrec", "patrec\patrec.csproj", "{34329DBC-C770-46FE-984B-08D2DD5773EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34329DBC-C770-46FE-984B-08D2DD5773EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34329DBC-C770-46FE-984B-08D2DD5773EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34329DBC-C770-46FE-984B-08D2DD5773EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34329DBC-C770-46FE-984B-08D2DD5773EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48C43E26-A329-4497-B60B-6BB68270F8D5}
+	EndGlobalSection
+EndGlobal
